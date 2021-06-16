@@ -2,7 +2,7 @@
 
 👀 I’m interested in C# | Game creating with Unity
 
-🌱 I’m currently learning C++
+🌱 I’m currently learning C++ and PHP
 
 📫 How to reach me LittleEgg#9168 on discord!
 
