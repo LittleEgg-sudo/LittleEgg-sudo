@@ -1,9 +1,1 @@
-👋 Hi, I’m LittleEgg-Sudo
-
-👀 I’m interested in C# | Game creating with Unity
-
-🌱 I’m currently learning C++ and PHP
-
-📫 How to reach me LittleEgg#9168 on discord!
-
-⏰ Need me to code something for you, PM me on discord we can talk privately!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleEgg-Sudo)](https://github.com/anuraghazra/github-readme-stats)
