@@ -5,14 +5,13 @@
   	Cypherlab.xyz
 
 ### Languages I know:
-	C++ *Basics*
-	Java
-  	NodeJS *Basics*
 	C#
-	Python *Basics*
+	Java
+	C++ *Basics*
+  	NodeJS *Basics*
 	
-
-
+### About me
+	Hello, my name is Antonio
 
 
 
