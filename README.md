@@ -2,12 +2,12 @@
 
 ### Projects I’m working on:
 	Eternal Recoil
-  Cypherlab.xyz
+  	Cypherlab.xyz
 
 ### Languages I know:
 	C++ *Basics*
 	Java
-  NodeJS *Basics*
+  	NodeJS *Basics*
 	C#
 	Python *Basics*
 	
