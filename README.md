@@ -2,7 +2,6 @@
 
 ### Projects I’m working on:
 	Eternal Recoil
-  	Cypherlab.xyz
 
 ### Languages I know:
 	C#
