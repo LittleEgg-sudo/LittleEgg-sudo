@@ -6,7 +6,8 @@
 ### Languages I know:
 	C#
 	Java
-	C++ *Basics*
+	Javascript
+	C++
   	NodeJS *Basics*
 	
 ### About me
