@@ -9,9 +9,6 @@
 	Javascript
 	C++
   	NodeJS *Basics*
-	
-### About me
-	Hello, my name is Antonio
 
 
 
