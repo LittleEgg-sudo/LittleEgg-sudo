@@ -13,9 +13,5 @@
 
 - 📫 How to reach me **LittleEgg#1986**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleEgg#1986&show_icons=true&locale=en&layout=compact" alt="LittleEgg#1986" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleEgg#1986&show_icons=true&locale=en" alt="LittleEgg#1986" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleEgg#1986&" alt="LittleEgg#1986" /></p>
 
